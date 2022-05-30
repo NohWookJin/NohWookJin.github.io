@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Chirpy</title>
+  <title>NOH</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-30T20:58:46+08:00</updated>
+  <updated>2022-05-30T21:18:24+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -44,7 +44,7 @@
 
 
 
-      블로그 테스트
+      블로그 테스트 1234
 
     </summary>
   
